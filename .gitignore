@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.log
+.vscode/
+.idea/
+*.xcf
+*.psd
+__pycache__/
+.luarc.json
+.cursor/
